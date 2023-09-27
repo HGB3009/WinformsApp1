@@ -4,7 +4,7 @@
     {   
         static void Main(string[] args)
         {
-            string input = "Hi/Hello";
+            string input = "Hi/Hello dung ngu";
             string[] parts = input.Split('/');
             Console.WriteLine("Hi)";
             Console.WriteLine("Hi)";
